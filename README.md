@@ -5,7 +5,8 @@
 Siempre fui un apasionado por la tecnología, la pandemia me dio ese tiempo necesario para
 entrar en el mundo IT y no querer abandonarlo jamás.
 
-CONTACTO : 
+CONTACTO :
+
 Correo : santiagovalentino3@gmail.com 
 
 LinkedIn : https://www.linkedin.com/in/santiago-mart%C3%ADnez-full-stack-dev/ 
