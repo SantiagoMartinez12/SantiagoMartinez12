@@ -7,6 +7,7 @@ entrar en el mundo IT y no querer abandonarlo jamás.
 
 CONTACTO : 
 Correo : santiagovalentino3@gmail.com 
+
 LinkedIn : https://www.linkedin.com/in/santiago-mart%C3%ADnez-full-stack-dev/ 
  
 
