@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-### Hi there 👋, Bienvenidos
+###👋, Bienvenidos
 #### Mi nombre es Santiago Martinez y soy Full Stack Developer
 Siempre fui un apasionado por la tecnología, la pandemia me dio ese tiempo necesario para
 entrar en el mundo IT y no querer abandonarlo jamás.
